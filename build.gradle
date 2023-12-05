@@ -12,8 +12,8 @@ buildscript {
 allprojects {
 
     ext {
-        appName = 'Blue Archive Pixel Dungeon'
-        appPackageName = 'com.bluearchivepixel.bluearchivepixeldungeon'
+        appName = 'Blue Archive Pixel Area'
+        appPackageName = 'com.bluearchivepixel.bluearchivepixelarea'
 
         appVersionCode = 1
         appVersionName = '0.0.1'
